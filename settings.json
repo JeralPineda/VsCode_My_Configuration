@@ -1,0 +1,76 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "cSpell.language": "es",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "cSpell.userWords": [
+        "Alineamiento",
+        "Paginacion"
+    ],
+    "editor.formatOnSave": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "prettier.tabWidth": 3,
+    "workbench.tree.indent": 4,
+    "editor.tabSize": 4,
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "vscode.typescript-language-features"
+    // },
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.autoSave": "onFocusChange",
+    "prettier.printWidth": 500,
+    "editor.wordWrapColumn": 100,
+    "editor.wordWrap": "on",
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "all",
+    "emmet.syntaxProfiles": {
+        "javascript": "html"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "editor.formatOnPaste": true,
+    "[html]": {
+        // "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        [
+            "Gold",
+            "Orchid",
+            "LightSkyBlue",
+            "#9CDD29",
+            "#28df99",
+            "#F07850",
+            "#C497D4",
+            "#fafafa",
+            "#9F51B6"
+        ],
+        "Red"
+    ],
+    "editor.mouseWheelZoom": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.tabCompletion": "on",
+    "editor.fontFamily": "'Consolas, 'Courier New', monospace",
+    "emmet.triggerExpansionOnTab": true,
+    "window.restoreWindows": "none",
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+    "extensions.ignoreRecommendations": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.colorTheme": "One Dark Pro",
+    "oneDarkPro.editorTheme": "oneDarkPro",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true
+    
+}
